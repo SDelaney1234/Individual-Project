@@ -3,7 +3,7 @@ import router from '@/router'
 import App from '@/App'
 //import BootstrapVue from
 
-//Vue.config.productionTip = false
+Vue.config.productionTip = false
 
 //Vue.use(BootstrapVue)
 

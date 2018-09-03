@@ -33,6 +33,7 @@
     </form>
   </div>
 </div>
+</template>
 
 <script type="text/javascript">
     var accountApp = new Vue({
